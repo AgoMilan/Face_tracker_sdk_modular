@@ -1,0 +1,8 @@
+opencv-python
+numpy
+torch
+ultralytics
+scikit-learn
+face-recognition
+insightface
+pytest
