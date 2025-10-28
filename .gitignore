@@ -1,0 +1,27 @@
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Model and data
+models/*.pt
+gallery.json
+thumbnails/
+*.jpg
+*.png
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
